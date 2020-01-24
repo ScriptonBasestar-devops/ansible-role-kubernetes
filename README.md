@@ -141,3 +141,10 @@ MIT / BSD
 ## Author Information
 
 This role was created in 2018 by [Jeff Geerling](https://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
+
+## 참고
+
+* https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+* https://github.com/grycap/ansible-role-kubernetes
+* https://github.com/gantsign/ansible-role-kubernetes
+* https://github.com/grycap/ansible-role-kubernetes
